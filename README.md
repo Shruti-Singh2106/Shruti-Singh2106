@@ -23,7 +23,7 @@
 - Contributions to reproducible research or **data documentation**
 
 ## 📫 Reach Me At
-- Email: shruti.singh2106@gmail.com  
+- Email: shrusingh57@gmail.com  
 - LinkedIn: www.linkedin.com/in/shruti-singh21
 
 ## 😄 Pronouns
