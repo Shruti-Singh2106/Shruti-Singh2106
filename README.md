@@ -1,44 +1,28 @@
 # 👋 Hi, I’m Shruti Singh (@Shruti-Singh2106)
 
-🎯 I’m a master's student in Economics with a passion for **data analysis** and **evidence-based research**.  
-📊 I specialize in working with **SQL**, **R**, **Stata**, and **Excel**, and I'm currently exploring **Tableau** for data visualization.
+🎯 Hello! I’m Shruti from New Delhi, India. A naturally inquisitive data enthusiast with an economics background and a passion for personal knowledge management, collecting economic data, and uncovering insights that foster new ideas. My journey into the world of data began during my economics studies, where I developed an inherent love for capturing, organizing, distilling, and expressing information—especially for analyzing trends, forecasting, and understanding consumer behaviors. This fascination drove me to master SQL, spreadsheets, Power Bi, turning raw data into compelling stories, and linking economic theory to real-world impact. With a robust foundation in economic analysis and data interpretation, I’ve honed my analytical skills to drive strategic decisions and uncover growth opportunities.
 
 ## 👀 Interests
 - Data-driven policy analysis  
 - Business and development studies  
 - Visual storytelling with data  
-- Statistical modeling and predictive analytics
 
-## 🌱 Currently Learning
+## 🌱 Current Learning
 - Advanced **SQL** for complex queries and performance tuning  
-- Interactive dashboards in **Tableau**  
-- Coding basics in **Python**
+- Interactive dashboards in **PowerBi**
 
-## 🤝 Looking to Collaborate On
-- Business intelligence and data visualization projects that drive decision-making
-- Exploratory data analysis (EDA) and predictive modeling using real-world business data
-- Projects involving KPI tracking, dashboard development, or automated reporting
-- Collaborative work in market research, customer segmentation, or operations analytics.
-- Also interested in open-source research in **economics** or **social sciences**  
-- Contributions to reproducible research or **data documentation**
+##  Stakeholder Projects 
 
-## 📫 Reach Me At
+## Personal Projects 
+
+https://github.com/Shruti-Singh2106/Air-bnb-Analysis
+https://github.com/Shruti-Singh2106/Spotify-Advanced-SQL-project
+  
+
+## Reach Me At
 - Email: shrusingh57@gmail.com  
 - LinkedIn: www.linkedin.com/in/shruti-singh21
 
-## 😄 Pronouns
-She/Her
-
-## ⚡ Fun Fact
+## Fun Fact
 I love simplifying complex datasets to tell meaningful stories—and coffee is my favorite thinking fuel ☕
 
----
-
-Would you like help organizing your projects into folders for each tool (SQL, R, Stata, Excel)?
-
-
-
-<!---
-Shruti-Singh2106/Shruti-Singh2106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
