@@ -15,8 +15,8 @@
 
 ## Personal Projects 
 
-https://github.com/Shruti-Singh2106/Air-bnb-Analysis
-https://github.com/Shruti-Singh2106/Spotify-Advanced-SQL-project
+-https://github.com/Shruti-Singh2106/Air-bnb-Analysis
+-https://github.com/Shruti-Singh2106/Spotify-Advanced-SQL-project
   
 
 ## Reach Me At
