@@ -9,15 +9,21 @@
 
 ## 🌱 Current Learning
 - Advanced **SQL** for complex queries and performance tuning  
-- Interactive dashboards in **PowerBi**
+- Interactive dashboards in **Power BI**
 
 ##  Stakeholder Projects 
-
+- https://github.com/Shruti-Singh2106/Gear-Grid-Report
+  
 ## Personal Projects 
 
--https://github.com/Shruti-Singh2106/Air-bnb-Analysis
--https://github.com/Shruti-Singh2106/Spotify-Advanced-SQL-project
+Business related 
+
+- https://github.com/Shruti-Singh2106/Air-bnb-Analysis
+- https://github.com/Shruti-Singh2106/Spotify-Advanced-SQL-project
   
+Economics related 
+- https://github.com/Shruti-Singh2106/PLFS-Data-Analysis-Logistic-Regression-Modelling
+- https://github.com/Shruti-Singh2106/DIS-Data-analysis-Logistic-Regression-Modelling
 
 ## Reach Me At
 - Email: shrusingh57@gmail.com  
