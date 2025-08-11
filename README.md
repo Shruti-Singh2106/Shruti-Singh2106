@@ -12,22 +12,25 @@
 - Interactive dashboards in **Power BI**
 
 ##  Stakeholder Projects 
-- https://github.com/Shruti-Singh2106/Gear-Grid-Report
+- [Gear Grid Co. Analysis](https://github.com/Shruti-Singh2106/Gear-Grid-Report)
   
 ## Personal Projects 
 
 Business related 
 
-- https://github.com/Shruti-Singh2106/Air-bnb-Analysis
-- https://github.com/Shruti-Singh2106/Spotify-Advanced-SQL-project
+- [Airbnb Analysis Project](https://github.com/Shruti-Singh2106/Air-bnb-Analysis)
+- [Spotify Advanced SQL Project](https://github.com/Shruti-Singh2106/Spotify-Advanced-SQL-project)
+
   
 Economics related 
-- https://github.com/Shruti-Singh2106/PLFS-Data-Analysis-Logistic-Regression-Modelling
-- https://github.com/Shruti-Singh2106/DIS-Data-analysis-Logistic-Regression-Modelling
+- [PLFS Data Analysis - Logistic Regression Modelling](https://github.com/Shruti-Singh2106/PLFS-Data-Analysis-Logistic-Regression-Modelling)
+- [DIS Data Analysis - Logistic Regression Modelling](https://github.com/Shruti-Singh2106/DIS-Data-analysis-Logistic-Regression-Modelling
+)
 
 ## Reach Me At
+
 - Email: shrusingh57@gmail.com  
-- LinkedIn: www.linkedin.com/in/shruti-singh21
+- LinkedIn: [@Shruti_Singh](www.linkedin.com/in/shruti-singh21)
 
 ## Fun Fact
 I love simplifying complex datasets to tell meaningful stories—and coffee is my favorite thinking fuel ☕
